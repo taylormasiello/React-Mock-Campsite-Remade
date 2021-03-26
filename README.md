@@ -49,16 +49,12 @@ Lessons Learned During Nucamp's React Module (among others):
 
 ## _*JavaScript Prerequisites_
 * Template Literals
-* Objects and Classes
 * Objects
-* What Is This?
-* JavaScript Classes
+* This Keyword
+* Classes
 * Class Inheritance
 * Default Function Parameters
 * Advanced Array Methods
-* Map
-* Filter
-* Reduce
 * Arrays of Objects
 * Method Chaining
 * Object Destructuring
