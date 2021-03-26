@@ -33,6 +33,7 @@ Lessons Learned During Nucamp's React Module (among others):
 * React Redux Form
 * React Redux Form Validation
 * Redux Actions and Reducers
+* Redux Middleware
 * Redux Thunk
 
 ## Client-Server Communication
