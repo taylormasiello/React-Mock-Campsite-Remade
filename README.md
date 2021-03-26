@@ -1,7 +1,7 @@
 # React Rebuild of Nucampsite
 ## Rebuilding Nucampsite (originally made in Bootstrap) with React 
 
-I'm currently a student at Nucamp, an online coding bootcamp. Here is our second class portfolio project, in which we remade our mock campsite, this time in React. I'm happy to say that, as an update from my last project, I know feel comfortable using GitHub, as well as GitBash. I understand the fundamentals of Git, and I can do basic Git commands from the command line. 
+I'm currently a student at Nucamp, an online coding bootcamp. This is our second class portfolio project, in which we remade our mock campsite, this time in React. I'm happy to say that, as an update from my last project, I know feel comfortable using GitHub, as well as GitBash. I understand the fundamentals of Git, and I can do basic Git commands from the command line. 
 
 Lessons Learned During Nucamp's React Module (among others): 
 
