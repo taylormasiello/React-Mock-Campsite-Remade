@@ -35,6 +35,7 @@ Lessons Learned During Nucamp's React Module (among others):
 * Redux Actions and Reducers
 * Redux Middleware
 * Redux Thunk
+* Redux Logger
 
 ## Client-Server Communication
 * Networking Essentials
