@@ -45,7 +45,7 @@ Lessons Learned During Nucamp's React Module (among others):
 ## Building and Deployment
 * Introduction to Webpack
 
-### JavaScript Prerequisites
+## _*JavaScript Prerequisites_
 * Template Literals
 * Objects and Classes
 * Objects
