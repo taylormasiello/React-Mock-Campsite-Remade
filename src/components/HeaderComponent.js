@@ -45,7 +45,7 @@ class Header extends Component {
                     <div className="container">
                         <div className="row">
                             <div className="col">
-                                <h1>Nucamp</h1>
+                                <h1>Welcome to Nucamp</h1>
                                 <h2>a better way to camp</h2>
                             </div>
                         </div>
